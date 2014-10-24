@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Menu-Sapu</string>
-    <string name="hello">Hello menu-sapu!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">WebService Sapu</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="token_button">Send Token</string>
+    <string name="msisdn_hint">MSISDN</string>
+    <string name="kirim_str">Kirim</string>
+    <string name="jumlah_hint">Jumlah</string>
+    <string name="provider_hint">Pilih Provider</string>
+    <string name="produk_hint">Pilih Produk</string>
+    <string name="paket_hint">Pilih Paket</string>
+    <string name="downline_id_hint">Pilih ID Downline</string>
+    <string name="kode_hint">Pilih Kode</string>
 </resources>

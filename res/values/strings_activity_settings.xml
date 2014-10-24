@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_url">Web Service URL</string>
+    <string name="pref_default_url">http://119.110.67.237:213/solution/service.asmx?wsdl</string>
+</resources>
